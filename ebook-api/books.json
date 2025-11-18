@@ -4,7 +4,7 @@
     "title": "Sherlock Holmes: A Study in Scarlet",
     "author": "Arthur Conan Doyle",
     "imageUrl": "https://m.media-amazon.com/images/I/81QQRYFvmhL._AC_UF1000,1000_QL80_.jpg",
-    "assetUrl": "https://raw.githubusercontent.com/kaile-dev/free-books-api/main/books/sherlock.txt",
+    "assetUrl": "https://raw.githubusercontent.com/lekhai0123/demo_book_api/main/ebook-api/books/sherlock.txt",
     "description": "Tác phẩm đầu tiên giới thiệu Sherlock Holmes và Dr. Watson."
   },
   {
@@ -24,4 +24,5 @@
     "description": "Một nhà khoa học chế tạo cỗ máy thời gian và du hành đến tương lai xa xôi."
   }
 ]
+
 
