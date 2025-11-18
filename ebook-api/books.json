@@ -1,0 +1,26 @@
+[
+  {
+    "id": "novel_001",
+    "title": "Sherlock Holmes: A Study in Scarlet",
+    "author": "Arthur Conan Doyle",
+    "imageUrl": "https://raw.githubusercontent.com/kaile-dev/free-books-api/main/images/sherlock.jpg",
+    "assetUrl": "https://raw.githubusercontent.com/kaile-dev/free-books-api/main/books/sherlock.txt",
+    "description": "Tác phẩm đầu tiên giới thiệu Sherlock Holmes và Dr. Watson."
+  },
+  {
+    "id": "novel_002",
+    "title": "Treasure Island",
+    "author": "Robert Louis Stevenson",
+    "imageUrl": "https://raw.githubusercontent.com/kaile-dev/free-books-api/main/images/treasure.jpg",
+    "assetUrl": "https://raw.githubusercontent.com/kaile-dev/free-books-api/main/books/treasure.txt",
+    "description": "Cuộc phiêu lưu tìm kho báu kinh điển dành cho mọi lứa tuổi."
+  },
+  {
+    "id": "novel_003",
+    "title": "The Time Machine",
+    "author": "H. G. Wells",
+    "imageUrl": "https://raw.githubusercontent.com/kaile-dev/free-books-api/main/images/timemachine.jpg",
+    "assetUrl": "https://raw.githubusercontent.com/kaile-dev/free-books-api/main/books/timemachine.txt",
+    "description": "Một nhà khoa học chế tạo cỗ máy thời gian và du hành đến tương lai xa xôi."
+  }
+]
