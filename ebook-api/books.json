@@ -12,7 +12,7 @@
     "title": "Treasure Island",
     "author": "Robert Louis Stevenson",
     "imageUrl": "https://m.media-amazon.com/images/I/71o3PHsso4L._AC_UF1000,1000_QL80_.jpg",
-    "assetUrl": "https://raw.githubusercontent.com/kaile-dev/free-books-api/main/books/treasure.txt",
+    "assetUrl": "https://raw.githubusercontent.com/lekhai0123/demo_book_api/main/ebook-api/books/treasure.txt",
     "description": "Cuộc phiêu lưu tìm kho báu kinh điển dành cho mọi lứa tuổi."
   },
   {
@@ -20,9 +20,10 @@
     "title": "The Time Machine",
     "author": "H. G. Wells",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGVhNWMxZjktNjhiZS00MzhjLTk5ODUtNjNhYTFkZWUyNDZjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "assetUrl": "https://raw.githubusercontent.com/kaile-dev/free-books-api/main/books/timemachine.txt",
+    "assetUrl": "https://raw.githubusercontent.com/lekhai0123/demo_book_api/main/ebook-api/books/timemachine.txt",
     "description": "Một nhà khoa học chế tạo cỗ máy thời gian và du hành đến tương lai xa xôi."
   }
 ]
+
 
 
