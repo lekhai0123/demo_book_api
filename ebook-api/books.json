@@ -3,7 +3,7 @@
     "id": "novel_001",
     "title": "Sherlock Holmes: A Study in Scarlet",
     "author": "Arthur Conan Doyle",
-    "imageUrl": "https://m.media-amazon.com/images/I/81QQRYFvmhL._AC_UF1000,1000_QL80_.jpg",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohxZhk96j8PiiWKLQxrPHu-1P3Gw77p8aOiJ2CFweALI0lq3qyy6osczBKgyEzrCxXvYwwKk0p1vn9TdXZUoskGzkovumgQSRg5XSOQ&s=10",
     "assetUrl": "https://raw.githubusercontent.com/lekhai0123/demo_book_api/main/ebook-api/books/sherlock.txt",
     "description": "Tác phẩm đầu tiên giới thiệu Sherlock Holmes và Dr. Watson."
   },
@@ -11,7 +11,7 @@
     "id": "novel_002",
     "title": "Treasure Island",
     "author": "Robert Louis Stevenson",
-    "imageUrl": "https://m.media-amazon.com/images/I/71o3PHsso4L._AC_UF1000,1000_QL80_.jpg",
+    "imageUrl": "https://bangtot.vn/wp-content/uploads/2019/01/ban-go-mam-non-hinh-chu-nhat.jpg",
     "assetUrl": "https://raw.githubusercontent.com/lekhai0123/demo_book_api/main/ebook-api/books/treasure.txt",
     "description": "Cuộc phiêu lưu tìm kho báu kinh điển dành cho mọi lứa tuổi."
   },
@@ -19,11 +19,12 @@
     "id": "novel_003",
     "title": "The Time Machine",
     "author": "H. G. Wells",
-    "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGVhNWMxZjktNjhiZS00MzhjLTk5ODUtNjNhYTFkZWUyNDZjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "imageUrl": "https://nhua66a.com/wp-content/uploads/2019/01/ghe-nhua-4-soc-2.jpg",
     "assetUrl": "https://raw.githubusercontent.com/lekhai0123/demo_book_api/main/ebook-api/books/timemachine.txt",
     "description": "Một nhà khoa học chế tạo cỗ máy thời gian và du hành đến tương lai xa xôi."
   }
 ]
+
 
 
 
