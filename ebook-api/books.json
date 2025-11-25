@@ -1,30 +1,26 @@
 [
   {
     "id": "novel_001",
-    "title": "Sherlock Holmes: A Study in Scarlet",
-    "author": "Arthur Conan Doyle",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohxZhk96j8PiiWKLQxrPHu-1P3Gw77p8aOiJ2CFweALI0lq3qyy6osczBKgyEzrCxXvYwwKk0p1vn9TdXZUoskGzkovumgQSRg5XSOQ&s=10",
-    "assetUrl": "https://raw.githubusercontent.com/lekhai0123/demo_book_api/main/ebook-api/books/sherlock.txt",
-    "description": "Tác phẩm đầu tiên giới thiệu Sherlock Holmes và Dr. Watson."
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "imageUrl": "https://m.media-amazon.com/images/I/81OthjkJBuL.jpg",
+    "assetUrl": "https://raw.githubusercontent.com/lekhai0123/demo_book_api/main/ebook-api/books/pride.txt",
+    "description": "Một trong những tiểu thuyết kinh điển nổi tiếng nhất về tình yêu và tầng lớp xã hội Anh thế kỷ 19."
   },
   {
     "id": "novel_002",
-    "title": "Treasure Island",
-    "author": "Robert Louis Stevenson",
-    "imageUrl": "https://bangtot.vn/wp-content/uploads/2019/01/ban-go-mam-non-hinh-chu-nhat.jpg",
-    "assetUrl": "https://raw.githubusercontent.com/lekhai0123/demo_book_api/main/ebook-api/books/treasure.txt",
-    "description": "Cuộc phiêu lưu tìm kho báu kinh điển dành cho mọi lứa tuổi."
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ94JWHgL-OI63QZn45fn-o0h8kpqfd2rO3yg&s",
+    "assetUrl": "https://raw.githubusercontent.com/lekhai0123/demo_book_api/main/ebook-api/books/mobydick.txt",
+    "description": "Cuộc hành trình săn đuổi con cá voi khổng lồ của thuyền trưởng Ahab – một ẩn dụ sâu sắc về ám ảnh và định mệnh."
   },
   {
     "id": "novel_003",
-    "title": "The Time Machine",
-    "author": "H. G. Wells",
-    "imageUrl": "https://nhua66a.com/wp-content/uploads/2019/01/ghe-nhua-4-soc-2.jpg",
-    "assetUrl": "https://raw.githubusercontent.com/lekhai0123/demo_book_api/main/ebook-api/books/timemachine.txt",
-    "description": "Một nhà khoa học chế tạo cỗ máy thời gian và du hành đến tương lai xa xôi."
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "imageUrl": "https://m.media-amazon.com/images/I/81WcnNQ-TBL.jpg",
+    "assetUrl": "https://raw.githubusercontent.com/lekhai0123/demo_book_api/main/ebook-api/books/alice.txt",
+    "description": "Câu chuyện kinh điển về cuộc phiêu lưu kỳ ảo của Alice trong thế giới Wonderland đầy sinh vật kỳ quái."
   }
 ]
-
-
-
-
